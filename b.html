@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang=en>
+    
+    <head>
+        <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+        <title>
+            新标签页
+        </title>
+        <link rel=stylesheet href=assets_v0/css/dist.css>
+        
+        <body class=scrollbar>
+            <div class=wallpapers id=wallpapers>
+            </div>
+            <div class=nav-bar>
+                <div id=J-search-box class=search-box>
+                    <div class="search cl">
+                        <div class="icon search-engine fl">
+                            <i class="icon engine-icon engine-baidu">
+                            </i>
+                        </div>
+                        <input class="search-input fl" name=searchinput id=searchinput baidusug="2">
+                        <input type=button class="search-btn fl">
+                    </div>
+                    <ul class=bd-sug id=J-sug-list style=display:none>
+                    </ul>
+                    <div class=engine-wrap id=J-engine-list>
+                        <div class=engin-tringle>
+                        </div>
+                        <ul class=engine>
+                            <li _engine=baidu _title=百度 class="first selected">
+                                <i>
+                                </i>
+                                百度
+                                <span class=select-icon>
+                                </span>
+                            </li>
+                            <li _engine=sogou _title=搜狗>
+                                <i>
+                                </i>
+                                搜狗
+                                <span class=select-icon>
+                                </span>
+                            </li>
+                            <li _engine=google _title=谷歌>
+                                <i>
+                                </i>
+                                谷歌
+                                <span class=select-icon>
+                                </span>
+                            </li>
+                            <li _engine=weibo _title=微博>
+                                <i>
+                                </i>
+                                微博
+                                <span class=select-icon>
+                                </span>
+                            </li>
+                            <li _engine=taobao _title=淘宝>
+                                <i>
+                                </i>
+                                淘宝
+                                <span class=select-icon>
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div id=J-setup class=page-set>
+                <div class=mod-name>
+                    <span class="mod-item fr setup">
+                        <i>
+                        </i>
+                        <span class=mod-txt>
+                            设置
+                        </span>
+                    </span>
+                    <span class="split fr">
+                    </span>
+                    <a data-action=store href="http://store.liebao.cn/" target=_blank class="mod-item fr store-link">
+                        <i>
+                        </i>
+                        <span class=mod-txt>
+                            更多功能
+                        </span>
+                    </a>
+                    <span class="split fr">
+                    </span>
+                    <a data-action=skin href="http://www.liebao.cn/skin/" target=_blank class="mod-item fr skin-link show-item">
+                        <i>
+                        </i>
+                        <span class=mod-txt>
+                            更换皮肤
+                        </span>
+                    </a>
+                </div>
+                <div class=setupbox>
+                    <div class=up>
+                    </div>
+                    <div class="setup-mod-bg pl20">
+                        <p class=setup-mod-name>
+                            背景
+                        </p>
+                        <ul class="setup-bg-list cl">
+                            <li style=background:#eceded data-url=#eceded>
+                            </li>
+                            <li class=setup-bg-item data-url-small=http://www.liebao.cn/newtab/background/sky-small.jpg
+                            data-url=http://www.liebao.cn/newtab/background/sky.webp>
+                            </li>
+                            <li class=setup-bg-item data-url-small=http://www.liebao.cn/newtab/background/lake-small.jpg
+                            data-url=http://www.liebao.cn/newtab/background/lake.jpg>
+                            </li>
+                            <li class=setup-bg-item data-url-small=http://www.liebao.cn/newtab/background/light-small.jpg
+                            data-url=http://www.liebao.cn/newtab/background/light.jpg>
+                            </li>
+                            <li class=setup-bg-item data-url-small=http://www.liebao.cn/newtab/background/rain-small.jpg
+                            data-url=http://www.liebao.cn/newtab/background/rain.webp>
+                            </li>
+                            <li data-action=add>
+                                <input tabindex=-1 value=上传 id=J-selfSet-bg type=file>
+                                <div class=add-file>
+                                    +
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="setup-mod-effects pl20 pr cl" style=display:block>
+                        <span class="setup-mod-name fl">
+                            翻页动画
+                        </span>
+                        <span class="page-effects-selected fl" id=J-effects-btn>
+                            经典
+                            <i class=trangle>
+                            </i>
+                        </span>
+                        <ul class=page-effects-list id=J-effects-list style=display:none>
+                            <li _type=normal>
+                                <div class=title>
+                                    经典
+                                </div>
+                                <div class=checkbox>
+                                </div>
+                            </li>
+                            <li _type=stack>
+                                <div class=title>
+                                    层叠
+                                </div>
+                                <div class=checkbox>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class=setup-line>
+                    </div>
+                    <div class="setup-mod-other pl20">
+                        <span class="setup-mod-name fl">
+                            其他设置
+                        </span>
+                        <ul class=other-setlist>
+                            <li data-action=acceptPushOfficialbg>
+                                <span class=checkbox-border>
+                                </span>
+                                <span class=checkbox-hook>
+                                </span>
+                                开启主题背景推送
+                            </li>
+                            <li data-action=openURLBackend>
+                                <span class=checkbox-border>
+                                </span>
+                                <span class=checkbox-hook>
+                                </span>
+                                格子点击后从新页面打开
+                            </li>
+                            <li style=display:none data-action=toggleSync>
+                                <span class=checkbox-border>
+                                </span>
+                                <span class=checkbox-hook>
+                                </span>
+                                同步新标签页
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="setup-mod-other pl20">
+                        <span class="setup-mod-name fl">
+                            魔方透明度
+                        </span>
+                        <div class=other-setlist>
+                            <span class=op-tip>
+                                -
+                            </span>
+                            <input type=range class="landscape-dial-opacity">
+                            <span class=op-tip>
+                                +
+                            </span>
+                        </div>
+                    </div>
+                    <div class="transfer-tn J-transfer-tn">
+                        切换到炫酷格子
+                    </div>
+                </div>
+            </div>
+            <div class=outer-view-container>
+                <div class=nav-bar-shadow-out>
+                    <div class=nav-bar-shadow>
+                    </div>
+                </div>
+                <div class="scrollbar view view-speeddial" style=left:0>
+                    <div id=J-viewdial-cache>
+                    </div>
+                    <div id=J-viewnav-cache>
+                    </div>
+                    <div class="view-inner view-speeddial-inner J-view-speeddial-inner">
+                    </div>
+                </div>
+                <div class="scrollbar view view-partner" style=left:100%>
+                    <div class=view-partner-add>
+                    </div>
+                    <div class="view-inner view-partner-content">
+                    </div>
+                    <ul class=view-partner-nav>
+                    </ul>
+                </div>
+                <div class="pager-btn pager-prev">
+                </div>
+                <div class="pager-btn pager-next">
+                </div>
+            </div>
+            <div class=speeddial-horizon-tab>
+                <div class="tab-item speeddial-horizon-prev" data-action=prev style=display:none>
+                    <i>
+                    </i>
+                </div>
+                <div class="tab-item speeddial-horizon-next" data-action=next style=display:none>
+                    <i>
+                    </i>
+                </div>
+            </div>
+            <div class=game-assi id=J-game-assi style=display:none>
+                <div class=game-assi-set>
+                    <ul class=game-assi-set-con>
+                        <li id=J-toggle-reset>
+                            <i>
+                            </i>
+                            在侧边栏显示
+                        </li>
+                    </ul>
+                </div>
+                <div class="game-assi-wrap fl" id=J-game-assi-wrap>
+                    <div class=game-assi-tit>
+                        <a href="http://wan.liebao.cn/tuiguang/index.php?frm=yxzs-cbl" target=_blank
+                        id=J-game-assi-more>
+                            更多好玩的游戏>>
+                        </a>
+                    </div>
+                    <ul class="game-assi-con scrollbar">
+                        <div class=loading-dial>
+                        </div>
+                    </ul>
+                    <div class=game-assi-banner style=display:none>
+                        <a href="" target=_blank id=J-game-assi-banner-link>
+                        </a>
+                    </div>
+                </div>
+                <div class="game-assi-toggle pr fl" id=J-game-assi-toggle>
+                    <i>
+                    </i>
+                </div>
+                <div class=tip style=display:none>
+                </div>
+                <div class=game-assi-nodata style=display:none>
+                    <div class=game-assi-nodata-bg>
+                    </div>
+                    <p class=game-assi-nodata-txt>
+                        你玩的游戏会自动添加到这里，
+                        <br>
+                        方便你快速进入
+                    </p>
+                    <p>
+                        <a class=game-assi-nodata-link href="http://wan.liebao.cn/tuiguang/index.php?frm=yxzs-cbl"
+                        target=_blank>
+                            看看好玩的游戏
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div id=daohang-infobar class=daohang-infobar>
+                <div class=daohang-infobar-text>
+                    很久没有使用猎豹魔方了，推荐您使用毒霸网址大全。
+                </div>
+                <div class="daohang-infobar-btn daohang-infobar-btn-ok">
+                    确定使用
+                </div>
+                <div class=daohang-infobar-btn-cancel>
+                    恢复魔方
+                </div>
+            </div>
+            <div id=daohang-switch class=daohang-switch>
+                <div class="daohang-infobar-text daohang-switch-text">
+                    很久没有使用猎豹魔方了，推荐您使用毒霸网址大全。
+                </div>
+                <div class="daohang-infobar-btn daohang-infobar-btn-ok">
+                    确定使用
+                </div>
+                <div class=daohang-infobar-btn-cancel>
+                    恢复魔方
+                </div>
+            </div>
+            <script src=assets_v0/js/init.js>
+            </script>
+            <script>
+                var templateData = {};
+            </script>
+            <script>
+                var i18nTemplate = (function() {
+                    var b = {
+                        "i18n-content": function(f, g, h) {
+                            f.textContent = h[g]
+                        },
+                        "i18n-options": function(g, h, i) {
+                            var f = i[h];
+                            f.forEach(function(j) {
+                                var k = typeof j == "string" ? new Option(j) : new Option(j[1], j[0]);
+                                g.appendChild(k)
+                            })
+                        },
+                        "i18n-values": function(m, g, l) {
+                            var i = g.replace(/\s/g, "").split(/;/);
+                            for (var k = 0; k < i.length; k++) {
+                                var o = i[k].match(/^([^:]+):(.+)$/);
+                                if (o) {
+                                    var n = o[1];
+                                    var f = o[2];
+                                    if (f in l) {
+                                        var p = l[f];
+                                        if (n.charAt(0) == ".") {
+                                            var q = n.slice(1).split(".");
+                                            var h = m;
+                                            while (h && q.length > 1) {
+                                                h = h[q.shift()]
+                                            }
+                                            if (h) {
+                                                h[q] = p;
+                                                if (q == "innerHTML") {
+                                                    e(m, l)
+                                                }
+                                            }
+                                        } else {
+                                            m.setAttribute(n, p)
+                                        }
+                                    } else {
+                                        console.warn('i18n-values: Missing value for "' + f + '"')
+                                    }
+                                }
+                            }
+                        }
+                    };
+                    var d = [];
+                    for (var c in b) {
+                        d.push(c)
+                    }
+                    var a = "[" + d.join("],[") + "]";
+                    function e(m, o) {
+                        var n = m.querySelectorAll(a);
+                        for (var l, k = 0; l = n[k]; k++) {
+                            for (var h = 0; h < d.length; h++) {
+                                var g = d[h];
+                                var f = l.getAttribute(g);
+                                if (f != null) {
+                                    b[g](l, f, o)
+                                }
+                            }
+                        }
+                    }
+                    return {
+                        process: e
+                    }
+                })();
+            </script>
+            <script>
+                i18nTemplate.process(document, templateData);
+            </script>
