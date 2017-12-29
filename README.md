@@ -1,2 +1,2 @@
 # moli
-啦啦啦
+coptleft
