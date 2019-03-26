@@ -2,34 +2,6 @@
 转载自：[https://www.cnblogs.com/huangyc/p/9813907.html](https://www.cnblogs.com/huangyc/p/9813907.html)  
 
 
-* * *
-
-**0\. 目录**
-==========
-
-*   [1\. 前言](#_label0)
-*   [2\. Transformer模型结构](#_label1)
-    *   [2.1 Transformer的编码器解码器](#_label1_0)
-    *   [2.2 输入层](#_label1_1)
-    *   [2.3 位置向量](#_label1_2)
-    *   [2.4 Attention模型](#_label1_3)
-*   [3\. 总结](#_label2)
-
-* * *
-
-#### [1\. 语言模型](https://www.cnblogs.com/huangyc/p/9861453.html)
-
-#### [2\. Attention Is All You Need（Transformer）算法原理解析](https://www.cnblogs.com/huangyc/p/9813907.html)
-
-#### [3\. ELMo算法原理解析](https://www.cnblogs.com/huangyc/p/9860430.html)
-
-#### [4\. OpenAI GPT算法原理解析](https://www.cnblogs.com/huangyc/p/9860181.html)
-
-#### [5\. BERT算法原理解析](https://www.cnblogs.com/huangyc/p/9898852.html)
-
-#### [6\. 从Encoder-Decoder(Seq2Seq)理解Attention的本质](https://www.cnblogs.com/huangyc/p/10409626.html)
-
-
 
 1\. 前言
 ======
