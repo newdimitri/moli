@@ -1,10 +1,4 @@
-[![数据汪](https://pic4.zhimg.com/73905775c511ad467b33ee7006a19d3c_xs.jpg)](//www.zhihu.com/people/BigDataDigest)
 
-[数据汪](//www.zhihu.com/people/BigDataDigest)
-
-微信公众号大数据文摘（BigDataDigest）| 普及数据思维 传播数据文化
-
-168 人赞同了该回答
 
 **深度神经网络的超强有效性一直让人疑惑。**
 
@@ -117,6 +111,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
 
 <img src="https://pic1.zhimg.com/50/v2-6fb6344c91dccdc35dd94379ba0a5a12\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="608" data-default-watermark-src="https://pic2.zhimg.com/50/v2-b0f1cb869d3096876c72cf44070afbe1\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic1.zhimg.com/v2-6fb6344c91dccdc35dd94379ba0a5a12\_r.jpg"/>
 
+![](https://pic1.zhimg.com/80/v2-6fb6344c91dccdc35dd94379ba0a5a12_hd.jpg)
+
   
 
 模式1：注意下一个词。
@@ -149,6 +145,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
 
 <img src="https://pic4.zhimg.com/50/v2-a85f2b870bf41d7a33fdd495981101c8\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="608" data-default-watermark-src="https://pic1.zhimg.com/50/v2-2c8d994d54eecd59245fd40075fb5891\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic4.zhimg.com/v2-a85f2b870bf41d7a33fdd495981101c8\_r.jpg"/>
 
+![](https://pic4.zhimg.com/80/v2-a85f2b870bf41d7a33fdd495981101c8_hd.jpg)
+
   
 
 模式2：注意前一个词。
@@ -169,6 +167,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
 
 <img src="https://pic2.zhimg.com/50/v2-5433acd407e2cb1a3075328c79830fe9\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="608" data-default-watermark-src="https://pic2.zhimg.com/50/v2-09a1775e498b069436c5fe7a53a65318\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic2.zhimg.com/v2-5433acd407e2cb1a3075328c79830fe9\_r.jpg"/>
 
+![](https://pic2.zhimg.com/80/v2-5433acd407e2cb1a3075328c79830fe9_hd.jpg)
+
   
 
 模式3：注意相同/相关的词。
@@ -187,6 +187,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
 
 <img src="https://pic3.zhimg.com/50/v2-08e15d9187cb2b59614e7cc2db622a95\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="608" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b0b0ca8edcc4d18e7618d5d6f2c3dd24\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic3.zhimg.com/v2-08e15d9187cb2b59614e7cc2db622a95\_r.jpg"/>
 
+![](https://pic3.zhimg.com/80/v2-08e15d9187cb2b59614e7cc2db622a95_hd.jpg)
+
   
 
 模式4：注意其他句子中相同/相关的单词。
@@ -204,6 +206,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
   
 
 <img src="https://pic4.zhimg.com/50/v2-7717df918e14416422795aa8d53a5b46\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="608" data-default-watermark-src="https://pic2.zhimg.com/50/v2-1af561bcc01014373c7529152876990d\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic4.zhimg.com/v2-7717df918e14416422795aa8d53a5b46\_r.jpg"/>
+
+![](https://pic4.zhimg.com/80/v2-7717df918e14416422795aa8d53a5b46_hd.jpg)
 
   
 
@@ -228,6 +232,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
   
 
 <img src="https://pic2.zhimg.com/50/v2-145c1e8407357d4e6edb3bcca49996c2\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="608" data-default-watermark-src="https://pic3.zhimg.com/50/v2-f45c5c4cff40168c45d5d0dff1c0ebf2\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic2.zhimg.com/v2-145c1e8407357d4e6edb3bcca49996c2\_r.jpg"/>
+
+![](https://pic2.zhimg.com/80/v2-145c1e8407357d4e6edb3bcca49996c2_hd.jpg)
 
   
 
@@ -263,6 +269,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
 
 <img src="https://pic3.zhimg.com/50/v2-bc9f23f2b7cf8fed75c742a1d1703835\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="678" data-default-watermark-src="https://pic3.zhimg.com/50/v2-04977d2b9d3546056690e59523d071fd\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic3.zhimg.com/v2-bc9f23f2b7cf8fed75c742a1d1703835\_r.jpg"/>
 
+![](https://pic3.zhimg.com/80/v2-bc9f23f2b7cf8fed75c742a1d1703835_hd.jpg)
+
   
 
   
@@ -274,6 +282,8 @@ BERT 用 WordPiece工具来进行分词，并插入特殊的分离符（\[CLS\]�
   
 
 <img src="https://pic4.zhimg.com/50/v2-a76f0dce1bb3be5e2bbe41a4092592d8\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="531" data-default-watermark-src="https://pic3.zhimg.com/50/v2-c855b4da7fed05286906f7d26e38a7eb\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic4.zhimg.com/v2-a76f0dce1bb3be5e2bbe41a4092592d8\_r.jpg"/>
+
+![](https://pic4.zhimg.com/80/v2-a76f0dce1bb3be5e2bbe41a4092592d8_hd.jpg)
 
   
 
@@ -306,6 +316,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
   
 
 <img src="https://pic4.zhimg.com/50/v2-571d2d71a5bce3cdc22da429459dafcb\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="320" data-default-watermark-src="https://pic2.zhimg.com/50/v2-7fd6b91eca64992655b00ca09edca11f\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic4.zhimg.com/v2-571d2d71a5bce3cdc22da429459dafcb\_r.jpg"/>
+
+![](https://pic4.zhimg.com/80/v2-571d2d71a5bce3cdc22da429459dafcb_hd.jpg)
 
   
 
@@ -349,6 +361,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
 
 <img src="https://pic1.zhimg.com/50/v2-c9a3bc847ce840f68030b2b641d59b5c\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="585" data-default-watermark-src="https://pic3.zhimg.com/50/v2-345bdca83ea4ad2de31e390c893215a2\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic1.zhimg.com/v2-c9a3bc847ce840f68030b2b641d59b5c\_r.jpg"/>
 
+![](https://pic1.zhimg.com/80/v2-c9a3bc847ce840f68030b2b641d59b5c_hd.jpg)
+
   
 
 基于BERT预训练模型的第7层3号头，聚焦分隔符注意力模式。
@@ -363,6 +377,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
 
 <img src="https://pic4.zhimg.com/50/v2-6f3726a24b4aac9451b3a0e511218810\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="571" data-default-watermark-src="https://pic1.zhimg.com/50/v2-387f46ad95cc2b362e106f5bb5e6835d\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic4.zhimg.com/v2-6f3726a24b4aac9451b3a0e511218810\_r.jpg"/>
 
+![](https://pic4.zhimg.com/80/v2-6f3726a24b4aac9451b3a0e511218810_hd.jpg)
+
   
 
   
@@ -375,6 +391,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
 
 <img src="https://pic2.zhimg.com/50/v2-7e21dd12c49e7cbd214acd9a41148877\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="986" data-rawheight="100" class="origin\_image zh-lightbox-thumb" width="986" data-original="https://pic2.zhimg.com/v2-7e21dd12c49e7cbd214acd9a41148877_r.jpg"/>
 
+![](https://pic2.zhimg.com/80/v2-7e21dd12c49e7cbd214acd9a41148877_hd.jpg)
+
   
 
 第一个分隔符\[SEP\]的键向量。
@@ -386,6 +404,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
   
 
 <img src="https://pic3.zhimg.com/50/v2-c6cc987073e4015fa05f673c0b2d13f3\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="986" data-rawheight="412" data-default-watermark-src="https://pic1.zhimg.com/50/v2-a84dd1bc953399e11c0507396803778c\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="986" data-original="https://pic3.zhimg.com/v2-c6cc987073e4015fa05f673c0b2d13f3\_r.jpg"/>
+
+![](https://pic3.zhimg.com/80/v2-c6cc987073e4015fa05f673c0b2d13f3_hd.jpg)
 
   
 
@@ -407,6 +427,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
 
 <img src="https://pic2.zhimg.com/50/v2-3729b1147b091dd3788e8b828cea94f3\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="651" data-default-watermark-src="https://pic2.zhimg.com/50/v2-72b45a2af848685e0672b72a03d0e512\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic2.zhimg.com/v2-3729b1147b091dd3788e8b828cea94f3\_r.jpg"/>
 
+![](https://pic2.zhimg.com/80/v2-3729b1147b091dd3788e8b828cea94f3_hd.jpg)
+
   
 
 基于BERT预训练模型的第0层0号头，专注句子的注意力模式
@@ -425,6 +447,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
 
 <img src="https://pic1.zhimg.com/50/v2-939ba1e80458723a0a65b951d3518698\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="558" data-default-watermark-src="https://pic2.zhimg.com/50/v2-1cd141618d8e41f511710eca0d0c6f36\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic1.zhimg.com/v2-939ba1e80458723a0a65b951d3518698\_r.jpg"/>
 
+![](https://pic1.zhimg.com/80/v2-939ba1e80458723a0a65b951d3518698_hd.jpg)
+
   
 
 基于BERT预训练模型的第0层0号头，专注句子的注意力模式细节视图。
@@ -438,6 +462,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
   
 
 <img src="https://pic2.zhimg.com/50/v2-ebafa55ce23212c124406d423989536a\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="259" data-default-watermark-src="https://pic1.zhimg.com/50/v2-a3e1eefc51023a81cf1ddf359e5ee36d\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic2.zhimg.com/v2-ebafa55ce23212c124406d423989536a\_r.jpg"/>
+
+![](https://pic2.zhimg.com/80/v2-ebafa55ce23212c124406d423989536a_hd.jpg)
 
   
 
@@ -456,6 +482,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
   
 
 <img src="https://pic2.zhimg.com/50/v2-b3d708ee3fb6de874c120abdb2f7f1ef\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="340" data-default-watermark-src="https://pic1.zhimg.com/50/v2-10f3a2220336954c1f40568a4e507bcb\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic2.zhimg.com/v2-b3d708ee3fb6de874c120abdb2f7f1ef\_r.jpg"/>
+
+![](https://pic2.zhimg.com/80/v2-b3d708ee3fb6de874c120abdb2f7f1ef_hd.jpg)
 
   
 
@@ -477,6 +505,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
 
 <img src="https://pic4.zhimg.com/50/v2-4debdef847fbf14fd5be28be3d92524c\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="667" data-default-watermark-src="https://pic3.zhimg.com/50/v2-ca9e4850ad1d232469a9061e55aacab9\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic4.zhimg.com/v2-4debdef847fbf14fd5be28be3d92524c\_r.jpg"/>
 
+![](https://pic4.zhimg.com/80/v2-4debdef847fbf14fd5be28be3d92524c_hd.jpg)
+
   
 
 基于BERT预训练模型的第2层0号头，注意下一个词的注意力模式。
@@ -490,6 +520,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
   
 
 <img src="https://pic4.zhimg.com/50/v2-c68d48b86b647d418e452489cd5de500\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="569" data-default-watermark-src="https://pic4.zhimg.com/50/v2-1f9a601044233c667545a876a8a21053\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic4.zhimg.com/v2-c68d48b86b647d418e452489cd5de500\_r.jpg"/>
+
+![](https://pic4.zhimg.com/80/v2-c68d48b86b647d418e452489cd5de500_hd.jpg)
 
   
 
@@ -506,6 +538,8 @@ BERT有点像鲁布·戈德堡机（译注：是一种被设计得过度复杂�
   
 
 <img src="https://pic3.zhimg.com/50/v2-11732c02ce367a58267c0ca4260e6aae\_hd.jpg" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="304" data-default-watermark-src="https://pic2.zhimg.com/50/v2-54e67898103443de65fd5143f4be4322\_hd.jpg" class="origin\_image zh-lightbox-thumb" width="1080" data-original="https://pic3.zhimg.com/v2-11732c02ce367a58267c0ca4260e6aae\_r.jpg"/>
+
+![](https://pic3.zhimg.com/80/v2-11732c02ce367a58267c0ca4260e6aae_hd.jpg)
 
   
 
